@@ -50,3 +50,14 @@ aray - ouch
 ligo - shower
 
 tulog - sleep
+
+ma tulog - to sleep
+
+Phrases
+-------
+
+Q. kailan mo gusto ma tulog - when do you want to sleep?
+
+A. mamaya - later.
+
+A. ngayon - now
