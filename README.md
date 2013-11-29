@@ -53,6 +53,8 @@ tulog - sleep
 
 ma tulog - to sleep
 
+ikow - you
+
 Phrases
 -------
 
