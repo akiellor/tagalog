@@ -63,3 +63,5 @@ Q. kailan mo gusto ma tulog - when do you want to sleep?
 A. mamaya - later.
 
 A. ngayon - now
+
+ano yan - what that?
