@@ -55,6 +55,10 @@ ma tulog - to sleep
 
 ikaw - you
 
+inumin - beverage
+
+in-u-min - to drink
+
 Phrases
 -------
 
@@ -65,3 +69,5 @@ A. mamaya - later.
 A. ngayon - now
 
 ano yan - what that?
+
+inumin mo - you drink.
